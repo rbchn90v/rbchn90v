@@ -17,8 +17,8 @@
 
 ### Тестирование мобильных приложений:
 
-![android-studio](https://img.shields.io/badge/-android-studio-255C37)
-![charles-proxy](https://img.shields.io/badge/-charles-proxy-255C37)
+!['android-studio'](https://img.shields.io/badge/-'android-studio'-255C37)
+!['charles-proxy'](https://img.shields.io/badge/-'charles-proxy'-255C37)
 ![fiddler](https://img.shields.io/badge/-fiddler-255C37)
 
 ### Работа с данными:
@@ -30,7 +30,7 @@
 ![git](https://img.shields.io/badge/-git-255C37)
 ![bash](https://img.shields.io/badge/-bash-255C37)
 ![java](https://img.shields.io/badge/-java-255C37)
-![intellij IDEA](https://img.shields.io/badge/-intellij IDEA-255C37)
+!['intellij IDEA'](https://img.shields.io/badge/-'intellij IDEA'-255C37)
 ![vscode](https://img.shields.io/badge/-vscode-255C37)
 
 
