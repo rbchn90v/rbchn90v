@@ -35,6 +35,6 @@
 
 
 ### Follow ME
-![Telegram](https://img.shields.io/badge/-Telegram-255C37)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-255C37)
-![Email](https://img.shields.io/badge/-Email-255C37)
+![Telegram](https://img.shields.io/badge/-Telegram-255C37)(rbchn90v)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-255C37)(https://www.linkedin.com/in/viktoryiarabchun/?locale=en_US)
+![Email](https://img.shields.io/badge/-Email-255C37)(rbchn90v@gmail.com)
